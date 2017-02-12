@@ -130,8 +130,8 @@
             ChatFrameEditBox:SetPoint('BOTTOMLEFT', ChatFrame1, 'TOPLEFT', -2, 18)
             ChatFrameEditBox:SetPoint('BOTTOMRIGHT', ChatFrame1, 'TOPRIGHT',  2, 18)
         else
-            ChatFrameEditBox:SetPoint('TOPLEFT', ChatFrame1, 'BOTTOMLEFT', -2, -18)
-            ChatFrameEditBox:SetPoint('TOPRIGHT', ChatFrame1, 'BOTTOMRIGHT',  2, -18)
+            ChatFrameEditBox:SetPoint('TOPLEFT', ChatFrame1, 'BOTTOMLEFT', -2, -2)
+            ChatFrameEditBox:SetPoint('TOPRIGHT', ChatFrame1, 'BOTTOMRIGHT',  2, -2)
         end
     end
 
