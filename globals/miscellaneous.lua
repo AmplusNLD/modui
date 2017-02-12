@@ -4,7 +4,7 @@
 	-- added by AmplusNLD miscellaneous
 
 	local TEXTURE   = [[Interface\AddOns\modui\statusbar\texture\sb.tga]]
-	local TEXTURE-HB   = [[Interface\AddOns\modui\statusbar\texture\hb.tga]]
+	local TEXTURE_HB   = [[Interface\AddOns\modui\statusbar\texture\hb.tga]]
 
 	MainMenuExpBar:SetStatusBarTexture(TEXTURE)
 	ReputationWatchStatusBar:SetStatusBarTexture(TEXTURE)
@@ -12,7 +12,7 @@
 	MirrorTimer2StatusBar:SetStatusBarTexture(TEXTURE)
 	MirrorTimer3StatusBar:SetStatusBarTexture(TEXTURE)
 	
-	HonorFrameProgressBar:SetStatusBarTexture(TEXTURE-HB)
+	HonorFrameProgressBar:SetStatusBarTexture(TEXTURE_HB)
 	
 
 	--
