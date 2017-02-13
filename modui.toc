@@ -122,8 +122,6 @@ statusbar\smooth.lua
 
 stopwatch\stopwatch.lua
 
-tip\tip.lua
-
 tracker\click.lua
 
 unitframe\boss\create.lua
